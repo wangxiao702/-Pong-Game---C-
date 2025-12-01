@@ -1,0 +1,17 @@
+# Visual Studio 构建文件
+x64/
+*.vcxproj.user
+*.sln
+
+# 编译输出
+*.obj
+*.pdb
+*.exe
+*.ilk
+*.idb
+*.db
+*.log
+*.tlog/
+
+# Visual Studio 临时文件
+.vs/
